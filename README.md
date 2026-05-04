@@ -69,7 +69,7 @@ FinAlgoritmo
 * ## Diagrama de flujo:
 <img width="565" height="678" alt="image" src="https://github.com/user-attachments/assets/8ea1f994-0908-4fb8-84f1-68a8b73d5e14" />
 
-## 4. Codificación (código fuente) 
+## 4. Codificación (Lenguaje C) 
 ```c
 #include <stdio.h>
 
@@ -89,7 +89,16 @@ int main(){
     return 0;
 }
 ```
-## 5. Validación (prueba  de escritorio) 
+## 5. Validación (prueba  de escritorio)
+* Lenguaje C:
+<img width="715" height="114" alt="image" src="https://github.com/user-attachments/assets/ba925093-88d5-43b8-8c5c-27075ea4b491" />
+
+
+*  PSeInt
+<img width="610" height="442" alt="image" src="https://github.com/user-attachments/assets/ab29a1f7-62eb-4029-865d-25550c264f8a" />
+
+
+*  Escrito
 <img width="868" height="197" alt="image" src="https://github.com/user-attachments/assets/6b5b938a-5414-4d6d-85c6-d63e79d325f1" />
 
 # Principales dificultades y reflexión crítica en la aplicación de los contenidos. 
